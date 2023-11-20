@@ -8,7 +8,7 @@
 
 # 
 
-- 📧  Email : jdk8467@naver.com
+- 📧  Email : skehdry1@gmail.com
 - 📋  Blog : https://
 
 
