@@ -2,12 +2,11 @@
 
 <div align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngyj&show_icons=true&theme=blueberry) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dngyj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
 ## 
  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcloud)
  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=dcloud&theme=dark)](https://solved.ac/profile/dcloud)
+
+
 
 
 ## Tech Stack
@@ -25,6 +24,9 @@
 ![styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <br>
+
+
+
 
 ### TOOLS
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
